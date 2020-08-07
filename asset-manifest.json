@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/websiteMadeWithReact/static/css/main.58a699ea.chunk.css",
+    "main.js": "/websiteMadeWithReact/static/js/main.4922b4c9.chunk.js",
+    "main.js.map": "/websiteMadeWithReact/static/js/main.4922b4c9.chunk.js.map",
+    "runtime-main.js": "/websiteMadeWithReact/static/js/runtime-main.6cd1c033.js",
+    "runtime-main.js.map": "/websiteMadeWithReact/static/js/runtime-main.6cd1c033.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/websiteMadeWithReact/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.a333ee84.chunk.js": "/websiteMadeWithReact/static/js/2.a333ee84.chunk.js",
+    "static/js/2.a333ee84.chunk.js.map": "/websiteMadeWithReact/static/js/2.a333ee84.chunk.js.map",
+    "index.html": "/websiteMadeWithReact/index.html",
+    "precache-manifest.cc1a7cd62bb3de7915fb3498f68491f0.js": "/websiteMadeWithReact/precache-manifest.cc1a7cd62bb3de7915fb3498f68491f0.js",
+    "service-worker.js": "/websiteMadeWithReact/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/websiteMadeWithReact/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.58a699ea.chunk.css.map": "/websiteMadeWithReact/static/css/main.58a699ea.chunk.css.map",
+    "static/js/2.a333ee84.chunk.js.LICENSE.txt": "/websiteMadeWithReact/static/js/2.a333ee84.chunk.js.LICENSE.txt",
+    "static/media/affiliate.jpg": "/websiteMadeWithReact/static/media/affiliate.b5e329a4.jpg",
+    "static/media/code.svg": "/websiteMadeWithReact/static/media/code.2be4b4c7.svg",
+    "static/media/dataentry.jpg": "/websiteMadeWithReact/static/media/dataentry.81ba3db9.jpg",
+    "static/media/digital.jpg": "/websiteMadeWithReact/static/media/digital.842ab334.jpg",
+    "static/media/freelance.jpg": "/websiteMadeWithReact/static/media/freelance.d670d999.jpg",
+    "static/media/game.jpg": "/websiteMadeWithReact/static/media/game.b8ff8312.jpg",
+    "static/media/graphics.jpg": "/websiteMadeWithReact/static/media/graphics.e4b56328.jpg",
+    "static/media/iphone.jpg": "/websiteMadeWithReact/static/media/iphone.fc097391.jpg",
+    "static/media/logo.svg": "/websiteMadeWithReact/static/media/logo.5d5d9eef.svg",
+    "static/media/marketting.jpg": "/websiteMadeWithReact/static/media/marketting.f6a617ac.jpg",
+    "static/media/photography.jpg": "/websiteMadeWithReact/static/media/photography.24f43957.jpg",
+    "static/media/seo.jpg": "/websiteMadeWithReact/static/media/seo.145ddaad.jpg",
+    "static/media/team-management.svg": "/websiteMadeWithReact/static/media/team-management.9927a740.svg",
+    "static/media/undraw_contact_us_15o2.svg": "/websiteMadeWithReact/static/media/undraw_contact_us_15o2.b0b9d5da.svg",
+    "static/media/undraw_programmer_imem.svg": "/websiteMadeWithReact/static/media/undraw_programmer_imem.7e15cd05.svg",
+    "static/media/undraw_web_developer_p3e5.svg": "/websiteMadeWithReact/static/media/undraw_web_developer_p3e5.29a9e36b.svg",
+    "static/media/webdev.jpg": "/websiteMadeWithReact/static/media/webdev.c8e7a31a.jpg",
+    "static/media/youtube.jpg": "/websiteMadeWithReact/static/media/youtube.2f7526fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cd1c033.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.a333ee84.chunk.js",
+    "static/css/main.58a699ea.chunk.css",
+    "static/js/main.4922b4c9.chunk.js"
+  ]
+}
