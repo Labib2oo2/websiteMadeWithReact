@@ -23,13 +23,13 @@ function App() {
   <Menu/>        
 
   <Switch>
- <Route exact path="/home" component={Home}></Route>
+ <Route exact component={Home}></Route>
  <Route exact path="/" component={Home}></Route>
  <Route exact path="/about" component={About}></Route>
  <Route exact path="/services" component={Services}></Route>
  <Route exact path="/contact" component={Contact}></Route>
 
-<Route component={Error} /> 
+
 </Switch>
  <Footer/>
 </BrowserRouter>
