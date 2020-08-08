@@ -29,8 +29,8 @@ const   Error  = ()=>{
 
 
     <h1> 404 error page 
-      <button onClick={()=>{history.push("/about"); }}> go back</button>
-       QQ &#x1F97C;
+      <button onClick={()=>{history.push("/home"); }}> go back</button>
+       ;
        </h1>
     <input onChange={search}/> <br/><br/>
     <img src={src}/>
